@@ -84,12 +84,12 @@ body
 	  position: absolute;
 	  top: 3em;
 	  left: 25%;
-	  color: white;
-	  font-size: 2.5em;
+	  color: black;
+	  font-size: 5em;
 	  font-weight: normal;
 	  word-spacing: .25em;
 	  letter-spacing: .0625em;
-    background-color: black;
+
   }
     /* navmenu -- the container for the navigation list, and ,consequently, their links & dropdown menus*/
     .navmenu
