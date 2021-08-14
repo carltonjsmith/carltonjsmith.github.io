@@ -82,7 +82,7 @@ body
   .header h1
   {
 	  position: absolute;
-	  top: 0.5em;
+	  top: 1em;
 	  left: 25%;
 	  color: black;
 	  font-size: 3em;
