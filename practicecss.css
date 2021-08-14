@@ -82,9 +82,9 @@ body
   .header h1
   {
 	  position: absolute;
-	  top: 3em;
+	  top: 0.5em;
 	  left: 25%;
-	  color: black;
+	  color: white;
 	  font-size: 5em;
 	  font-weight: normal;
 	  word-spacing: .25em;
