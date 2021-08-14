@@ -70,8 +70,8 @@ body
   .header
   {
 	margin-bottom: 4em;
-	background-image: url(storm.gif);
-	background-size: cover;
+	background-image: url(cajalneuron.jpeg);
+	background-size: cosver;
 	background-origin: border-box;
 	height: 25em;
 	text-align: center;
@@ -117,8 +117,8 @@ body
         /* navigation links or dropdown menu button*/
         .navmenu li a, .drpbtn, .dropdown-content a
         {
-			font-family: Lucida Sans Unicode;
-			color: white;
+			font-family: sans-serifx;
+			color: black;
 			text-decoration: none;
 			padding: 10px 10px;
         }
