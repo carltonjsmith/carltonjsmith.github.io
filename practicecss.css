@@ -118,7 +118,7 @@ body
         .navmenu li a, .drpbtn, .dropdown-content a
         {
 			font-family: sans-serif;
-			color: black;
+			color: blue;
 			text-decoration: none;
 			padding: 10px 10px;
         }
